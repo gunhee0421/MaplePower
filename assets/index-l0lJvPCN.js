@@ -184,4 +184,4 @@ Error generating stack: `+i.message+`
   height: 100vh;
   position: relative;
   background: rgb(255, 128, 0, 0.30);
-`;function Sv(){return I.jsx(wv,{children:I.jsx(P1,{basename:"/MaplePower",children:I.jsxs(C1,{children:[I.jsx(zs,{path:"/",element:I.jsx(My,{})}),I.jsx(zs,{path:"/power",element:I.jsx(vv,{})})]})})})}Fl.createRoot(document.getElementById("root")).render(I.jsx(sn.StrictMode,{children:I.jsx(Sv,{})}));
+`;function Sv(){return I.jsx(wv,{children:I.jsx(P1,{basename:"/MaplePower/",children:I.jsxs(C1,{children:[I.jsx(zs,{path:"/",element:I.jsx(My,{})}),I.jsx(zs,{path:"/power",element:I.jsx(vv,{})})]})})})}Fl.createRoot(document.getElementById("root")).render(I.jsx(sn.StrictMode,{children:I.jsx(Sv,{})}));
