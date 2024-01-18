@@ -124,7 +124,7 @@ Error generating stack: `+i.message+`
     height: 50px;
     left: 95%;
     top: 5%;
-`;function Dy(){return I.jsxs("div",{children:[I.jsx(Ay,{src:"image/maplelogo.gif",alt:"watiting"}),I.jsxs(Iy,{children:["Maple Power ",I.jsx("br",{})," Converter"]}),I.jsx(Ol,{src:"image/leap1.png",style:{top:"65%",left:"15%",width:200,height:150}}),I.jsx(Ol,{src:"image/leap2.png",style:{top:"10%",left:"80%",width:200,height:150}}),I.jsx(Ol,{src:"image/leap3.png",style:{top:"70%",left:"75%",width:200,height:150}}),I.jsx(jy,{src:"image/Boss.gif",style:{top:"50%",left:"40%"}}),I.jsx($y,{href:"https://github.com/gunhee0421",children:I.jsx(Fy,{src:"image/Build circle.png"})}),I.jsx(zy,{})]})}const My=fe.img`
+`;function Dy(){return I.jsxs("div",{children:[I.jsx(Ay,{src:"image/maplelogo.gif",alt:"watiting"}),I.jsxs(Iy,{children:["Maple Power ",I.jsx("br",{})," Converter"]}),I.jsx(Ol,{src:"image/leap1.png",style:{top:"65%",left:"15%",width:200,height:150}}),I.jsx(Ol,{src:"image/leap2.png",style:{top:"10%",left:"80%",width:200,height:150}}),I.jsx(Ol,{src:"image/leap3.png",style:{top:"70%",left:"75%",width:200,height:150}}),I.jsx(jy,{src:"image/Boss.gif",style:{top:"50%",left:"40%"}}),I.jsx($y,{href:"https://github.com/gunhee0421",children:I.jsx(Fy,{src:"image/Build circle.png"})}),"123",I.jsx(zy,{})]})}const My=fe.img`
     position: absolute;
     width: 50px;
     height: 50px;
