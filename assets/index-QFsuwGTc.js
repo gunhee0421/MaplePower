@@ -90,7 +90,9 @@ Error generating stack: `+i.message+`
     padding: 10px;
     background: rgb(255, 128, 0, 0.30);
     border-radius: 50px;
-`;function zy(){const e=dp(),[t,n]=N.useState(""),r=l=>{const s=l.target.value.replace(/\s/g,"");n(s)},o=l=>{l.key==="Enter"&&(t.length>0?e("/power",{state:{name:t}}):alert("닉네임을 입력해주세요."))},i=l=>{n(l.target.value),r(l)};return I.jsxs(Ty,{children:[I.jsx(Oy,{src:"image/Search.png"}),I.jsx(Ly,{onKeyPress:o,onChange:i,value:t,type:"text",placeholder:"유저의 닉네임을 입력해주세요."})]})}const Ay=ie.div``,Iy=ie.img`
+`;function zy(){const e=dp(),[t,n]=N.useState(""),r=l=>{const s=l.target.value.replace(/\s/g,"");n(s)},o=l=>{l.key==="Enter"&&(t.length>0?e("/power",{state:{name:t}}):alert("닉네임을 입력해주세요."))},i=l=>{n(l.target.value),r(l)};return I.jsxs(Ty,{children:[I.jsx(Oy,{src:"image/Search.png"}),I.jsx(Ly,{onKeyPress:o,onChange:i,value:t,type:"text",placeholder:"유저의 닉네임을 입력해주세요."})]})}const Ay=ie.div`
+    border: 1px solid black;
+`,Iy=ie.img`
     position: absolute;
     height: 194px;
     left: 10%;
